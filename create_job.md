@@ -34,3 +34,8 @@ giving permissions
 modified build steps:
 
 ![image](https://user-images.githubusercontent.com/85178565/232264176-09d11642-52e7-48ec-ba65-d4281c80872a.png)
+
+install docker compose
+
+![image](https://user-images.githubusercontent.com/85178565/232265405-7f682df5-0b53-4e80-b65e-b2ad70590ecc.png)
+

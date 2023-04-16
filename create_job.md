@@ -42,3 +42,9 @@ install docker compose
 
 ![image](https://user-images.githubusercontent.com/85178565/232266540-65a5c424-44c7-4083-b266-a63015ce9c0d.png)
 
+
+docker build again with docker copmpose
+
+![image](https://user-images.githubusercontent.com/85178565/232266716-ba6ba074-e1e2-43b1-81c6-93feeb56667d.png)
+
+

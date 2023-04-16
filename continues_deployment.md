@@ -5,3 +5,10 @@ Add new task > take free style project > give github url > project url which sup
 changes need to be done in git hub project repository settings
 
 ![image](https://user-images.githubusercontent.com/85178565/232328654-a64f3717-e1e2-4167-b62a-710c686ad4ae.png)
+
+update in jenkins job in script
+
+
+![image](https://user-images.githubusercontent.com/85178565/232330157-7f78ba47-d26f-43fc-b28c-a01f7412d0e8.png)
+
+

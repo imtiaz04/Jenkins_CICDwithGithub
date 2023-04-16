@@ -39,3 +39,6 @@ install docker compose
 
 ![image](https://user-images.githubusercontent.com/85178565/232265405-7f682df5-0b53-4e80-b65e-b2ad70590ecc.png)
 
+
+![image](https://user-images.githubusercontent.com/85178565/232266540-65a5c424-44c7-4083-b266-a63015ce9c0d.png)
+

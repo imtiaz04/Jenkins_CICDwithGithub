@@ -46,6 +46,8 @@ install docker & give permissions
   ![image](https://user-images.githubusercontent.com/85178565/232598829-334c4dd9-2639-437e-9e3d-4c65757d7ed0.png)
 
  ![image](https://user-images.githubusercontent.com/85178565/232601170-81129712-ea49-4a1d-b90b-e5d4c421645a.png)
+  
+  
 
   ![image](https://user-images.githubusercontent.com/85178565/232601288-d00b0676-60bb-423e-b2f6-192b35b826ec.png)
 

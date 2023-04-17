@@ -30,3 +30,24 @@ use ssh key for credencials add master private key add in jenkin credencials
 ![image](https://user-images.githubusercontent.com/85178565/232559377-9b6fb26f-253b-4dab-bb65-229cf207ae62.png)
 
   ![image](https://user-images.githubusercontent.com/85178565/232579899-75461853-0619-4147-96f9-ad04f52eba5f.png)
+
+  create web-hook in git hub for that for the project and create job on node with shell script
+  
+  ![image](https://user-images.githubusercontent.com/85178565/232590550-7d52a6fc-48db-4e83-b9fa-51457be2414c.png)
+  
+  ![image](https://user-images.githubusercontent.com/85178565/232590653-f2e550cb-93fb-4336-808d-baa45a3f589d.png)
+
+install docker & give permissions
+  
+ ![image](https://user-images.githubusercontent.com/85178565/232598518-0fe3ed09-ac26-448d-af58-68f457cfd9a8.png)
+ 
+ ![image](https://user-images.githubusercontent.com/85178565/232598723-5435b21b-2535-416a-a86a-b52753809059.png)
+  
+  ![image](https://user-images.githubusercontent.com/85178565/232598829-334c4dd9-2639-437e-9e3d-4c65757d7ed0.png)
+
+ ![image](https://user-images.githubusercontent.com/85178565/232601170-81129712-ea49-4a1d-b90b-e5d4c421645a.png)
+
+  ![image](https://user-images.githubusercontent.com/85178565/232601288-d00b0676-60bb-423e-b2f6-192b35b826ec.png)
+
+  
+  

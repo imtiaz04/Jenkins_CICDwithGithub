@@ -1,4 +1,0 @@
-create 2 instances 1master, 1 agent will connect through ssh
-
-in local in master go to .ssh/folder then ssh-key-gen--->this will generates key-gen which containes public& private keys
-

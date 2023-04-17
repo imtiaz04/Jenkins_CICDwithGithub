@@ -50,6 +50,13 @@ install docker & give permissions
   
 
   ![image](https://user-images.githubusercontent.com/85178565/232601288-d00b0676-60bb-423e-b2f6-192b35b826ec.png)
+  
+  created pipeline with environment variables using dockerhub credentials;before that in manage jenkins tab added environment plugins and created environment variabes and then created pipeline
+  
+  ![image](https://user-images.githubusercontent.com/85178565/232613308-52b525f6-3e2b-4c6c-86f1-1b0ea6fc2270.png)
+  
+  
+
 
   
   

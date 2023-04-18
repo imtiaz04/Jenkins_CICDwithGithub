@@ -57,6 +57,17 @@ install docker & give permissions
   
   
 ![image](https://user-images.githubusercontent.com/85178565/232613876-067f88f4-6a91-447f-b5f1-e0523d88107b.png)
+  
+  
+  For creating declarative pipeline edit in pipeline definition as 
+  
+  ![image](https://user-images.githubusercontent.com/85178565/232641613-11c18904-73ca-4742-8459-754ba41cd07e.png)
+
+and edit in jenkin's file with docker id'sand details 
+  
+  then commit pipeline triggers automatically as declarative pipeline
+  
+  ![image](https://user-images.githubusercontent.com/85178565/232642066-ef358069-99d4-4e33-878b-c3f9a38020aa.png)
 
 
   

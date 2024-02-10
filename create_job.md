@@ -48,3 +48,14 @@ docker build again with docker copmpose
 ![image](https://user-images.githubusercontent.com/85178565/232266716-ba6ba074-e1e2-43b1-81c6-93feeb56667d.png)
 
 
+![image](https://github.com/imtiaz04/Jenkins_CICDwithGithub/assets/85178565/039e4bb3-164d-4ce4-aea0-afb4fe9c3dd0)
+
+![image](https://github.com/imtiaz04/Jenkins_CICDwithGithub/assets/85178565/c5135577-fb39-4598-bdc9-0571dca96916)
+
+
+![image](https://github.com/imtiaz04/Jenkins_CICDwithGithub/assets/85178565/27a1dc92-b97f-4722-9502-a953747af252)
+
+
+
+
+

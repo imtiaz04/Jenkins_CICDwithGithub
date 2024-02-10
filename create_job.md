@@ -53,6 +53,8 @@ docker build again with docker copmpose
 ![image](https://github.com/imtiaz04/Jenkins_CICDwithGithub/assets/85178565/c5135577-fb39-4598-bdc9-0571dca96916)
 
 
+App up and running using port num 8001
+
 ![image](https://github.com/imtiaz04/Jenkins_CICDwithGithub/assets/85178565/27a1dc92-b97f-4722-9502-a953747af252)
 
 

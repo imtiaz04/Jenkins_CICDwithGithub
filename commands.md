@@ -1,6 +1,9 @@
 Create AWS EC2 instance
 sudo apt update
-    3  sudo apt install openjdk-11-jre
+# any one of the java versions like 17, 21, 25 , java 11 is not compatable
+# sudo apt install openjdk-21-jre
+# sudo apt install openjdk-25-jre
+    3  sudo apt install openjdk-17-jre
     4  java -version
     5  curl -fsSL https://pkg.jenkins.io/debian/jenkins.io.key | sudo tee \   /usr/share/keyrings/jenkins-keyring.asc > /dev/null 
     6  echo deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc] \   https://pkg.jenkins.io/debian binary/ | sudo tee \   /etc/apt/sources.list.d/jenkins.list > /dev/null
